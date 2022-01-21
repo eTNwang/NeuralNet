@@ -9,5 +9,5 @@ Learn to classify digits from the Alpaydin and Kaynak’s Handwritten Digits set
 
 Learn to classify digits from the MNIST Handwritten Digits set to a validation accuracy of around 91% in 5 epochs with a learning rate of 0.05 and the use of 150 hidden neurons
 
-
+Full Report:https://docs.google.com/document/d/1DWvDknMc_BvJ39krSw6IpNMsxGEFueIfhs2UstEeV4U/edit?usp=sharing
 
